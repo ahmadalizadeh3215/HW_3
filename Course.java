@@ -3,6 +3,7 @@ package HW3;
 import java.util.Scanner;
 
 public class Course {
+    //first change!!!
     private Integer[] courseCode;
     private String[] nameCourse;
     private Integer emptyIndex;
